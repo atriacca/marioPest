@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+}
+/*@font-face {
+    font-family: Super Mario Font;
+    src: https://fontmeme.com/super-mario-font/;
+  }
+  */
+html {
+    font-family: Chalkboard;
+}
+header {
+    color: red;
+    font-size: 2em;
+    justify-items: center;
+    text-align: center;
+}
+footer {
+    text-align: center
+}
+
+.small {
+    width: 100px;
+}
+.large {
+    width: 200px;
+}
+.xl {
+    width: 45%;
+}
